@@ -8,7 +8,7 @@
 
 # Descriptor de datos y dataset reconstruidos
 ###### Las actualizaciones diarias seran realizadas a las 10:00PM (UTC/GMT -5 horas) y podran ser encontradas en "carpeta datos actualizados" 
-###### Hemos seguido la metodologia recomendada por Open COVID-19 Data Working Group la cual puede ser consultada como: Xu B, Kraemer MUG, Open COVID-19 Data Working Group. Open access epidemiological data from the COVID-19 outbreak. Lancet Infect Dis. 20(5):534 (2020). https://doi:10.1016/S1473-3099(20)30119-5
+###### Hemos seguido la metodologia recomendada por Open COVID-19 Data Working Group la cual puede ser consultada como: Xu, B., Gutierrez, B., Mekaru, S. et al. Epidemiological data from the COVID-19 outbreak, real-time case information. Sci Data 7, 106 (2020). https://doi.org/10.1038/s41597-020-0448-0 ; version corta: Xu B, Kraemer MUG, Open COVID-19 Data Working Group. Open access epidemiological data from the COVID-19 outbreak. Lancet Infect Dis. 20(5):534 (2020). https://doi:10.1016/S1473-3099(20)30119-5
 ###### Los tableros de visualización que son nutridos por este repositorio los podra encontrar en: 
 ###### Dashboard Open COVID-19 Data Working Group: https://www.healthmap.org/covid-19/ 
 ###### Dashboardo COVID19_Col :
