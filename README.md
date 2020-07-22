@@ -28,10 +28,10 @@
 | Alejandro Feged      | Alejandro.feged@urosario.edu.co       |               | @supercontra   | URosario            |
 | Soraya Salcedo       | soraya.salcedo@gmail.com              |               |                | USB                 |
 | Ronald Maestre       | rmaestre5@unisimonbolivar.edu.co      |               |                | USB                 |
-| Bernando Gutierrez   | bernardo.gutierrez@zoo.ox.ac.uk       |               |                | UOxford             |
-| Moritz Kraemer       | moritz.kraemer@zoo.ox.ac.uk           |               |                | UOxford, BCH        |
-| Samuel Scarpino      | s.scarpino@northeastern.edu           |               |                | UNortheastern       |
-|                      |                                       |               |                |                     |
+| Bernando Gutierrez   | bernardo.gutierrez@zoo.ox.ac.uk       |               |                | Oxford              |
+| Moritz Kraemer       | moritz.kraemer@zoo.ox.ac.uk           |               |                | Oxford, BCH         |
+| Samuel Scarpino      | s.scarpino@northeastern.edu           |               |                | Northeastern        |
+| Federico Andrade     |                                       |               |                | Brithish Columnbia  |
 |                      |                                       |               |                |                     |
 |                      |                                       |               |                |                     |
 |                      |                                       |               |                |                     |
