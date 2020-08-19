@@ -3,7 +3,7 @@
 
 # Agradecimientos
 ###### Queremos darle las gracias a todos los que han contribuido con la recolección y organización de los datos alojados en este repositorio. Esta es una iniciativa de la Universidad Simon Bolivar, en asocio con la Universidad de los Andes, La Misericordia Clinica Internacional, la Universidad Tecnologica de Bolivar, y la empresa Tecnologia y Servicios de Información (TSI). Esta iniciativa esta promovida y respaldada por Open COVID-19 Data Working Group que es una iniciativa multisectorial liderada por distintas organizaciones academicas entre ellas, Universidad de Oxford, Boston Children Hospital, Universidad de Harvard, Universidad de Northeastern, entre otros.
-###### Si desea contribuir con esta iniciativa, por favor pongase en contacto con nosostros: Felipe Guillen (h.guillen@uniandes.edu.co)  
+###### Si desea contribuir con esta iniciativa, por favor pongase en contacto con nosostros: Felipe Guillen (hernan.guillen@unisimonbolivar.edu.co ; h.guillen@uniandes.edu.co)  
 ###### Promovemos la ciencia abierta y los datos abiertos, por tal motivo, si considera que desea ponerse en contacto con nosotros con fines academicos, investigación, visualización u otros, no dude en hacerlo. El listado de colaboradores con sus respectivos contactos lo podra encontrar mas abajo.  
 
 # Descriptor de datos y dataset reconstruidos
