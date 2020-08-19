@@ -32,8 +32,8 @@
 | Bernando Gutierrez   | bernardo.gutierrez@zoo.ox.ac.uk       |               |                | Oxford              |
 | Moritz Kraemer       | moritz.kraemer@zoo.ox.ac.uk           |               |                | Oxford, BCH         |     
 | Andres Rojas         | andres.rojas@tsi.com.co               |               |                | TSI                 |
-|                      |                                       |               |                |                     |
-|                      |                                       |               |                |                     |
+| Santiago Bolaños     | s.bolanos@uniandes.edu.co             |               |                | Uniandes            |
+| Natasha Bloch        | n.blochm@uniandes.edu.co              |               |                | Uniandes            |
 |                      |                                       |               |                |                     |
 |                      |                                       |               |                |                     |
 
